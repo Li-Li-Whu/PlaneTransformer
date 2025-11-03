@@ -7,7 +7,7 @@ This is the PyToch implementation of the following manuscript:
 This manuscript has been accepted by TGRS Journal.
 
 ## Datasets
-To evaluate the performance of the propsed PlaneTransformer, we train and test the model on a synthetic and a real-world dataset, which can be derived from [DeepRoofPlane](https://github.com/Li-Li-Whu/DeepRoofPlane.). 
+To evaluate the performance of the propsed PlaneTransformer, we train and test the model on a synthetic and a real-world dataset, which can be derived from [DeepRoofPlane](https://github.com/Li-Li-Whu/DeepRoofPlane). 
 
  
 ## Usage
